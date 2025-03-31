@@ -1,0 +1,2 @@
+Paper [Relation-Aware Transformer for Portfolio Policy Learning](https://www.ijcai.org/Proceedings/2020/0641.pdf), code by the aurthor is 404, we can use [this](https://github.com/Algorithm-EAjks/Relation-Aware-Transformer-for-Portfolio-Policy-Learning) 
+and there is a [note](https://j-sycamore.github.io/2023/07/12/Relation-Aware-Transformer-for-Portfolio-Policy-Learning%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/) 

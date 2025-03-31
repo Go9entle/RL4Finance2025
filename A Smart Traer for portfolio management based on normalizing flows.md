@@ -1,0 +1,1 @@
+IJCAI-22 paper "[A Smart Trader for Portfolio Management based on Normalizing Flows](https://www.ijcai.org/proceedings/2022/0557.pdf)", code is [here](https://github.com/Yangmy412/Strader/tree/master)

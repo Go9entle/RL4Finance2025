@@ -1,0 +1,1 @@
+The paper focus on optimizing the reward function, such as [Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach](https://ojs.aaai.org/index.php/AAAI/article/view/5587), no code.

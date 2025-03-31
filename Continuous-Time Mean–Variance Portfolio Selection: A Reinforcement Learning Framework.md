@@ -1,1 +1,1 @@
-[Continuous-Time Mean–Variance Portfolio Selection: A Reinforcement Learning Framework](https://arxiv.org/pdf/1904.11392), code is [here](https://github.com/Tdjaaleb/Exploratory-Mean-Variance).
+[Continuous-Time Mean–Variance Portfolio Selection: A Reinforcement Learning Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mafi.12281?saml_referrer), code is [here](https://github.com/Tdjaaleb/Exploratory-Mean-Variance).

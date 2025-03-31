@@ -1,0 +1,1 @@
+[Contrastive learning and reward smoothing for deep portfolio management](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/441) concentrate on optimizing the reward function using contrastive learning, and code is [here](https://github.com/sophialien/FinTech-DPM).
